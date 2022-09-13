@@ -7,8 +7,8 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: flex-start;
-  margin-right: 1rem;
-  margin-bottom: 1rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .appointment-title-star-container {
