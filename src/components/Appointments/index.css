@@ -52,6 +52,7 @@
 .form-input-label {
   font-size: 1rem;
   color: #b5b7c4;
+  margin-bottom: 0.5rem;
 }
 
 .form-input {
@@ -74,7 +75,7 @@
 
 .form-input,
 .form-submit-button {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   cursor: pointer;
   outline: none;
 }
